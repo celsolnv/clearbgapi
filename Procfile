@@ -1,1 +1,1 @@
-web: gunicorn clearBgApi.wsgi --log-file -
+web: gunicorn apis.wsgi --log-file -
